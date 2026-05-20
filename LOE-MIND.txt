@@ -1,0 +1,11 @@
+V65 õppematerjal
+
+Kasutamine:
+1. Paki ZIP-fail lahti.
+2. Ava index.html brauseris.
+3. Helifailid töötavad siis, kui kaust audio jääb index.html kõrvale.
+
+Sisu:
+- V65 muster duuris ja mollis kuni 3 märgini helistikes.
+- WAV-helinäited mustriga 7–2–4–5–1.
+- Juhusliku helistiku enesekontroll.
